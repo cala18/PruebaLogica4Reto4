@@ -8,4 +8,7 @@ se ingresa la cantidad de universidades que participaran
 # 2
 se debe ingresar el nombre de la universidad y el voto de los alumnos, que pueden ser (A, R, N o B)
 al terminar la votacion se indica con una X y se debe mostrar la cantidad de votos 
+
+se mosatraran los diferentes apartados donde se veran las universidades aceptadas y rechazadas, junto a la cantidad de votos que se han obtenido
+THAKS!!!
 ´´´
